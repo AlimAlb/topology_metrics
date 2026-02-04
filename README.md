@@ -1,1 +1,2 @@
 # topology_metrics
+LLM embeddings are high-dimensional representations, and basic similarity metrics (such as distance- or cosine-based measures) often fail to adequately capture the global structure of the distribution (e.g., connectivity, clustering, and multiscale effects). Topological Data Analysis (TDA) methods have the potential to provide more robust and interpretable characteristics of the shape of point clouds. This project aims to systematize such approaches for LLM embeddings and to empirically evaluate their applicability and robustness on real-world data.
